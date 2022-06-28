@@ -22,12 +22,12 @@ div.post img{
 div.post .post-header div:first-child{
     display:inline-block;
     width: 80%;
-    background: green;
+    background: white;
 }
 div.post .post-header div:last-child{
     display:inline-block;
     width: 20%;
-    background: yellow;
+    background: white;
     text-align: right;
     padding: 10px;
     color:gray;
@@ -40,4 +40,3 @@ div.container{
     width: 600px;
     margin: auto;
 }
-
